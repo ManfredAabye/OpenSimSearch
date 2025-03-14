@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<Project name="OpenSim.Search.Modules" path="addon-modules\opensimsearch\SearchModule" type="Library">
+<Project name="OpenSimSearch.Modules" path="addon-modules\opensimsearch\SearchModule" type="Library">
    <Configuration name="Debug">
      <Options>
        <OutputPath>../../../bin/</OutputPath>
@@ -12,8 +12,6 @@
    </Configuration>
 
    <ReferencePath>../../../bin/</ReferencePath>
-   <Reference localCopy="false" name="System"/>
-   <Reference name="System.Xml"/>
    <Reference name="OpenMetaverseTypes"/>
    <Reference name="OpenMetaverse"/>
    <Reference name="OpenSim.Framework"/>
