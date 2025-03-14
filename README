@@ -1,5 +1,7 @@
 OpenSimSearch add-on module for Open Simulator
 
+opensimsearch dotnet 6 & 8
+
 Requirements
 
 The webserver needs PHP support with support for CURL and XMLRPC.
