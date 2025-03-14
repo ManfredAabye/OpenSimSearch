@@ -1,6 +1,6 @@
 OpenSimSearch add-on module for Open Simulator
 
-opensimsearch dotnet 6 & 8 Test - Copy the addon-modules directory to OpenSim/addon-modules
+opensimsearch dotnet 6 & 8 Test - Copy the addon-modules directory to OpenSim/addon-modules then prebuild and compile
 
 webroot not tested
 
